@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soolzip">
+        <item>술집이름1</item>
+        <item>술집이름2</item>
+        <item>술집이름3</item>
+
+    </string-array>
+
+    <string-array name="jejusiArea">
+        <item>시청</item>
+        <item>제주지역2</item>
+
+    </string-array>
+
+    <string-array name="seogwipoArea">
+        <item>서귀포지역1</item>
+        <item>서귀포지역2</item>
+
+    </string-array>
+
+    <string-array name="type">
+        <item>일반술집</item>
+        <item>노래주점</item>
+        <item>바</item>
+
+    </string-array>
+
+    <string-array name="sichungZip">
+        <item>제주시술집이름1</item>
+        <item>제주시술집이름2</item>
+        <item>제주시술집이름3</item>
+
+    </string-array>
+
+    <string-array name="jeju2Zip">
+        <item>제주시2술집이름1</item>
+        <item>제주시2술집이름2</item>
+        <item>제주시2술집이름3</item>
+    </string-array>
+
+    <string-array name="seogwipoZip">
+        <item>서귀포술집이름1</item>
+        <item>서귀포술집이름2</item>
+        <item>서귀포술집이름3</item>
+
+    </string-array>
+
+    <string-array name="seogwipo2Zip">
+        <item>서귀포2술집이름1</item>
+        <item>서귀포2술집이름2</item>
+        <item>서귀포2술집이름3</item>
+
+    </string-array>
+</resources>
